@@ -2,12 +2,6 @@
 
 ## Tecnologias e Ferramentas
 
-### Front-end
-- HTML, CSS, JavaScript, TypeScript
-- React e Styled Components
-- Next.js
-- Testes unitários com Jest e Mocks
-
 ### Mobile
 - React Native
 - Tipagem com TypeScript
@@ -20,3 +14,6 @@
 
 ## Integrações e APIs
 - Consumo de API Node.js
+
+## Conceitos Aplicados
+- Desenvolvimento de uma aplicação mobile utilizando conceitos de Propriedades, Estados e Componentes.
